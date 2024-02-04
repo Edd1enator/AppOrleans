@@ -1,0 +1,5 @@
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache

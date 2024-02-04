@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaB4838ZezspyQlFtRlIHATECObFG5RC/flueXlSQdMSVgWplU84U/kE/Iqay5d+EL2uSAJMyGJztujpWWauoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eddie\\OneDrive - Universidad Rafael Landivar\\U\\Año 6\\Primer Semestre\\Virtualización\\AppOrleans\\AppOrleansEG\\GrainInterfaces\\GrainInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eddie\\.nuget\\packages\\microsoft.orleans.sdk\\8.0.0\\microsoft.orleans.sdk.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

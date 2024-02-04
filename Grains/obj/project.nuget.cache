@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiM+4p3TIOKFGW+vWm1fu9UgOfpQto14XwPXxwrcK9yljckdP2mXoQjA3kywVDvgA0pSLk8nF4oGNCSqYQDdEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eddie\\OneDrive - Universidad Rafael Landivar\\U\\Año 6\\Primer Semestre\\Virtualización\\AppOrleans\\AppOrleansEG\\Grains\\Grains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eddie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eddie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eddie\\.nuget\\packages\\microsoft.orleans.sdk\\8.0.0\\microsoft.orleans.sdk.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

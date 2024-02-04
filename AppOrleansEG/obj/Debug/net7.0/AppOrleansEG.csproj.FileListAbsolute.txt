@@ -1,0 +1,6 @@
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.csproj.AssemblyReference.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.AssemblyInfoInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.AssemblyInfo.cs
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.csproj.CoreCompileInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\AppOrleansEG\obj\Debug\net7.0\AppOrleansEG.orleans.g.args.txt

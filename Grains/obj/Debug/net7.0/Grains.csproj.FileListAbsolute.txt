@@ -1,0 +1,5 @@
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Grains\obj\Debug\net7.0\Grains.csproj.AssemblyReference.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Grains\obj\Debug\net7.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Grains\obj\Debug\net7.0\Grains.AssemblyInfoInputs.cache
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Grains\obj\Debug\net7.0\Grains.AssemblyInfo.cs
+C:\Users\eddie\OneDrive - Universidad Rafael Landivar\U\Año 6\Primer Semestre\Virtualización\AppOrleans\AppOrleansEG\Grains\obj\Debug\net7.0\Grains.csproj.CoreCompileInputs.cache
